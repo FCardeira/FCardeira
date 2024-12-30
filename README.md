@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Mobilwave - Healthcare Solutions](https://mobilwave.pt/)
+- 🔭 I’m currently working at [Mobilwave - Healthcare Solutions](https://mobilwave.pt/)
 
-- 🌱 I’m currently learning **react, bun, hono and devops**
+- 🌱 I’m currently learning **react, bun, hono**
 
 - 💬 Ask me about **vue, quasar, express**
 
